@@ -1,0 +1,3 @@
+void main(){
+	printf("COMMIT 1 MASTER");
+}
