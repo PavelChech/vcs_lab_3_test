@@ -1,3 +1,4 @@
 void main(){
 	printf("COMMIT 1 CHECH");
+	printf("COMMIT 2 CHECH");
 }
